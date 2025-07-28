@@ -12,7 +12,7 @@ This main repository consists of structured Microsoft SOC labs, each stored in a
   Simulate malware activity on the VM and observe detection by Defender for Endpoint.
 
 - [Lab 3 – Sentinel Integration](https://github.com/daiva-sadauskiene/lab3-sentinel-integration)
-  Configure analytics rules in Microsoft Sentinel and investigate incidents triggered by threat intelligence feeds.
+- Configure analytics rules in Microsoft Sentinel and investigate incidents triggered by threat intelligence feeds.
 
 - [Lab 4 – Brute Force Attack Detection](https://github.com/daiva-sadauskiene/lab4-brute-force-detection)  
   Create detection rules to identify brute force login attempts and analyze related incidents.
