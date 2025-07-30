@@ -35,7 +35,7 @@ The following screenshots document the investigation process, including alert de
 ![Kusto failed logins](kusto-query.png) 
 
 *A total of **403 failed login attempts** were recorded from the attacker IP `77.223.102.227`, confirming the brute-force nature of the incident.*
-![403 failed attempts](403-failed-logins.png)
+![403 failed attempts](403-failed-logons.png)
 
 ### 3. IP Origin:
 The IP address `77.223.102.227` was identified in Microsoft Defender for Endpoint by reviewing the alert and incident details.  
